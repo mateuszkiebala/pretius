@@ -1,1 +1,1 @@
-# pretius
+# INSTRUKCJA
